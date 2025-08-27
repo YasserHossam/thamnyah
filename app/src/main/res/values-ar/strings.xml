@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">ثمانيَة</string>
+    <string name="app_title">ثمانيَة</string>
+    <string name="search">البحث</string>
+    <string name="loading_content">جارٍ تحميل المحتوى…</string>
+    <string name="loading">جارٍ التحميل…</string>
+    <string name="error_occurred">حدث خطأ</string>
+    <string name="unknown_error">حدث خطأ غير معروف</string>
+    <string name="retry">إعادة المحاولة</string>
+    <string name="no_content_available">لا يوجد محتوى متاح</string>
+    <string name="search_hint">ابحث…</string>
+    <string name="clear_search">مسح البحث</string>
+    <string name="by_author">بواسطة %1$s</string>
+    <string name="no_search_results">لا توجد نتائج للبحث</string>
+    <string name="start_typing">ابدأ بالكتابة للبحث</string>
+    <string name="search_in_content">البحث في المحتوى</string>
+    <string name="back">رجوع</string>
+    <string name="search_placeholder">ابحث عن البودكاست، الحلقات، الكتب الصوتية…</string>
+    <string name="searching">جارٍ البحث…</string>
+    <string name="search_error">حدث خطأ في البحث</string>
+    <string name="search_results_for">نتائج البحث لـ "%1$s"</string>
+    <string name="results_found">تم العثور على %1$d نتيجة</string>
+    <string name="no_results_for">لم يتم العثور على نتائج لـ "%1$s"</string>
+    <string name="search_your_favorite_content">ابحث عن المحتوى المفضل لديك</string>
+    <string name="search_suggestions">اقتراحات البحث</string>
+    <string name="pull_to_load_more">اسحب لأسفل لتحميل المزيد</string>
+    
+    <!-- Filter chips -->
+    <string name="filter_podcasts">البودكاست</string>
+    <string name="filter_episodes">الحلقات</string>
+    <string name="filter_audiobooks">الكتب الصوتية</string>
+    <string name="filter_audio_articles">المقالات الصوتية</string>
+    <string name="filter_mixed">مختلط</string>
+    
+    <!-- Section names -->
+    <string name="section_top_podcasts">أفضل البودكاست</string>
+    <string name="section_trending_episodes">الحلقات الرائجة</string>
+    <string name="section_bestselling_audiobooks">الكتب الصوتية الأكثر مبيعاً</string>
+    <string name="section_must_read_audio_articles">المقالات الصوتية المميزة</string>
+    <string name="section_editors_pick_episodes">اختيار المحررين من الحلقات</string>
+    <string name="section_popular_audiobooks">الشائع في الكتب الصوتية</string>
+    <string name="section_new_podcasts">جديد البودكاست</string>
+</resources>

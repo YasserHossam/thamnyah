@@ -1,3 +1,43 @@
 <resources>
-    <string name="app_name">Thamanya</string>
+    <string name="app_name">ثمانيَة</string>
+    <string name="app_title">Thamanya</string>
+    <string name="search">Search</string>
+    <string name="loading_content">Loading content…</string>
+    <string name="loading">Loading…</string>
+    <string name="error_occurred">An error occurred</string>
+    <string name="unknown_error">Unknown error occurred</string>
+    <string name="retry">Retry</string>
+    <string name="no_content_available">No content available</string>
+    <string name="search_hint">Search…</string>
+    <string name="clear_search">Clear search</string>
+    <string name="by_author">By %1$s</string>
+    <string name="no_search_results">No search results</string>
+    <string name="start_typing">Start typing to search</string>
+    <string name="search_in_content">Search in content</string>
+    <string name="back">Back</string>
+    <string name="search_placeholder">Search for podcasts, episodes, audiobooks…</string>
+    <string name="searching">Searching…</string>
+    <string name="search_error">Search error occurred</string>
+    <string name="search_results_for">Search results for "%1$s"</string>
+    <string name="results_found">%1$d results found</string>
+    <string name="no_results_for">No results found for "%1$s"</string>
+    <string name="search_your_favorite_content">Search your favorite content</string>
+    <string name="search_suggestions">Search suggestions</string>
+    <string name="pull_to_load_more">Pull down to load more</string>
+    
+    <!-- Filter chips -->
+    <string name="filter_podcasts">Podcasts</string>
+    <string name="filter_episodes">Episodes</string>
+    <string name="filter_audiobooks">Books</string>
+    <string name="filter_audio_articles">Articles</string>
+    <string name="filter_mixed">Mixed</string>
+    
+    <!-- Section names -->
+    <string name="section_top_podcasts">Top Podcasts</string>
+    <string name="section_trending_episodes">Trending Episodes</string>
+    <string name="section_bestselling_audiobooks">Bestselling Audiobooks</string>
+    <string name="section_must_read_audio_articles">Must-Read Audio Articles</string>
+    <string name="section_editors_pick_episodes">Editor\'s Pick Episodes</string>
+    <string name="section_popular_audiobooks">Popular in Audiobooks</string>
+    <string name="section_new_podcasts">New Podcasts</string>
 </resources>
